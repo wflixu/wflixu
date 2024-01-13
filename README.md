@@ -1,16 +1,15 @@
-### Hi there 👋
+### wflixu' Github 👋
 
-<!--
-**wflixu/wflixu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wflixu&show_icons=true)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Wrote article on
+
+| 掘金                                                         | 知否 SegmentFault         |
+| -------------------------------------- | ------------------------------------------------------------ | 
+| [click](https://juejin.cn/user/1451011081796237) | [click](https://segmentfault.com/u/today_5aa33dd13dda9) |
+
+
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wflixu/tgraph,wflixu/obfetch,wflixu/Today-UI,wflixu/ntab,wflixu/typster&type=Date)](https://star-history.com/#wflixu/tgraph&wflixu/obfetch&wflixu/Today-UI&wflixu/ntabwflixu/typster&Date)
