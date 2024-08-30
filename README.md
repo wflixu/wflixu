@@ -5,9 +5,9 @@
 
 ### Wrote article on
 
-| 掘金                                                         | 知否 SegmentFault         |
-| -------------------------------------- | ------------------------------------------------------------ | 
-| [click](https://juejin.cn/user/1451011081796237) | [click](https://segmentfault.com/u/today_5aa33dd13dda9) |
+| 掘金                                    |                      知否 SegmentFault                       |                                     Blog Site                |
+| -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | 
+| [click](https://juejin.cn/user/1451011081796237) | [click](https://segmentfault.com/u/today_5aa33dd13dda9) | [click](blog.wflixu.cn) |
 
 
 ### Top used language
