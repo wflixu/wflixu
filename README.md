@@ -1,6 +1,13 @@
 ## wflixu' Github 👋
 
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=wflixu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wflixu&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wflixu&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wflixu&theme=algolia&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wflixu&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wflixu&theme=algolia)
+
+
+
 
 
 ### Wrote article on
@@ -8,11 +15,6 @@
 | 掘金                                    |                      知否 SegmentFault                       |                                     Blog Site                |
 | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | 
 | [click](https://juejin.cn/user/1451011081796237) | [click](https://segmentfault.com/u/today_5aa33dd13dda9) | [click](http://blog.wflixu.cn) |
-
-
-### Top used language
-
-![Langs](https://github-readme-stats-beta-lovat.vercel.app/api/top-langs/?username=wflixu&count_private=true&layout=compact)
 
 
 
